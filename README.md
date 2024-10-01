@@ -1,5 +1,8 @@
 # 3d flower page
 
+### Example
+![example page](/public/example.png)
+
 ## Description
 The **3d flower page** project is a web page featuring text surrounded by 3d flowers created with blender.
 The goal is to provide a visual experience where the flowers react to mouse movement.
@@ -8,6 +11,19 @@ The text have a transparent glassmorphism effect, allowing the flowers to be see
 ## Features
 - 3D flowers that move based on mouse movement.
 - Text with a transparent glassmorphism effect to see the flowers behind it.
+
+### Technologies Used
+- Vite
+- React
+- Typescript
+
+### Libraries
+- PandaCSS
+- ThreeJS
+- ReactThreeFiber
+- ReactThreeDrei
+- FramerMotion
+- FramerMotion3D
 
 ## Installation
 To install the project, floow these steps:
@@ -33,7 +49,6 @@ pnpm install
 pnpm dev
 ```
 
-## Usage
 Once the server is running, open your browser at http://localhost:5173 to see the page in action.
 Move your mouse to intercat with the flowers!
 
@@ -44,21 +59,5 @@ If you have suggestions or modifications to propose, please open an issue in the
 ## License
 This project is licensed under the MIT License.
 
-### Technologies Used
-- Vite
-- React
-- Typescript
-
-### Libraries
-- PandaCSS
-- ThreeJS
-- ReactThreeFiber
-- ReactThreeDrei
-- FramerMotion
-- FramerMotion3D
-
 ### Author
 [Tchoup7790](https://github.com/Tchoup7790)
-
-### Example
-![example page](/public/example.png)
