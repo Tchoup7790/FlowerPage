@@ -12,7 +12,7 @@ The text have a transparent glassmorphism effect, allowing the flowers to be see
 - 3D flowers that move based on mouse movement.
 - Text with a transparent glassmorphism effect to see the flowers behind it.
 
-### Technologies Used
+## Technologies Used
 - Vite
 - React
 - Typescript
