@@ -14,7 +14,11 @@ To install the project, floow these steps:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/Tchoup7790/FlowerPage
+git clone https://github.com/Tchoup7790/FlowerPage.git
+```
+or
+```bash
+git clone git@github.com:Tchoup7790/FlowerPage.git
 ```
 
 2. Install the dependencies:
